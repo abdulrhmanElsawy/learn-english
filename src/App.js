@@ -20,25 +20,14 @@ function App() {
 
 return (
     <div className="App">
-            <Routes>
-            
 
-            <Route path="/" element={
-                    <>
-                        <Navbar />
-                        <Landing />
-                        <Websites />
-                        <Papers />
-                        <Channels />
-                        <Lexicon />
-                        <Footer />
-
-
-                    </>
-                } />
-
-
-        </Routes>
+            <Navbar />
+            <Landing />
+            <Websites />
+            <Papers />
+            <Channels />
+            <Lexicon />
+            <Footer />
 
 
         
