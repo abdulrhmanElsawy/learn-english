@@ -1,6 +1,7 @@
 
 .landing{
     z-index: -1;
+    overflow: hidden;
 
 }
 .landing .landing-content{
@@ -8,10 +9,10 @@
     min-height: 500px;
 }
 
-.landing .landing-content img{
-    width: 100%;
+.landing .landing-content img {
+    width: 48%;
     position: absolute;
-    left: 0;
+    left: 55%;
     top: 0;
     right: 0;
     bottom: 0;
