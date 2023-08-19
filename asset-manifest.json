@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/learn-english/static/css/main.3716c2da.css",
+    "main.css": "/learn-english/static/css/main.5257976a.css",
     "main.js": "/learn-english/static/js/main.5982ae95.js",
     "static/js/787.0490dd80.chunk.js": "/learn-english/static/js/787.0490dd80.chunk.js",
     "static/media/tesol_horz_notag.png": "/learn-english/static/media/tesol_horz_notag.51a6bf0c3386b66b81f7.png",
@@ -24,12 +24,12 @@
     "static/media/coursera.svg": "/learn-english/static/media/coursera.e1c5f7400d99c2e980c82c8c7e1de890.svg",
     "index.html": "/learn-english/index.html",
     "static/media/youtube.svg": "/learn-english/static/media/youtube.d51475162e7c5e40f4daf744572f4aae.svg",
-    "main.3716c2da.css.map": "/learn-english/static/css/main.3716c2da.css.map",
+    "main.5257976a.css.map": "/learn-english/static/css/main.5257976a.css.map",
     "main.5982ae95.js.map": "/learn-english/static/js/main.5982ae95.js.map",
     "787.0490dd80.chunk.js.map": "/learn-english/static/js/787.0490dd80.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3716c2da.css",
+    "static/css/main.5257976a.css",
     "static/js/main.5982ae95.js"
   ]
 }
