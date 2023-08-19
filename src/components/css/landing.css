@@ -1,0 +1,131 @@
+
+.landing{
+    z-index: -1;
+
+}
+.landing .landing-content{
+    position: relative;
+    min-height: 500px;
+}
+
+.landing .landing-content img{
+    width: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    height: 100%;
+    object-fit: cover;
+}
+
+.landing .landing-content .text{
+    z-index: 1;
+    position: relative;
+    min-height: 500px;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-around;
+    padding: 45px;
+    background-color: #fff;
+}
+
+
+.landing .landing-content .text::after{
+    content: "";
+    position: absolute;
+    right: -359px;
+    top: 0;
+    height: 100%;
+    transform: translateX(-50%);
+    border-width: 120px;
+    border-style: solid;
+    border-color: #fff transparent transparent #fff;
+}
+
+.landing .landing-content .text h1{
+    font-size: 63px;
+    color: #000;
+}
+
+.landing .landing-content .text p{
+    font-size: 17px;
+    color: #000;
+    font-weight: 300;
+}
+
+.landing .landing-content .text .landing-links {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 35px;
+    flex-wrap: wrap;
+}
+
+.landing .landing-content .text .landing-links a:nth-child(odd){
+    padding: 9px;
+    padding-right: 15px;
+    padding-left: 15px;
+    background-color: #0097b2;
+    border-radius: 4px;
+    font-weight: 200;
+    font-size: 14px;
+    transition: 0.3s;
+    color: #fff;
+}
+
+.landing .landing-content .text .landing-links a:nth-child(even){
+    padding: 9px;
+    padding-right: 15px;
+    padding-left: 15px;
+    border-radius: 4px;
+    font-weight: 200;
+    font-size: 14px;
+    transition: 0.3s;
+    background-color: #000;
+    color: #fff;
+}
+
+
+@media(max-width:950px){
+
+    .landing .landing-content .text {
+        z-index: 1;
+        position: relative;
+        min-height: 336px;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: space-around;
+        padding: 45px;
+        background-color: #fff;
+    }
+
+    .landing .landing-content .text h1 {
+        font-size: 33px;
+        color: #000;
+    }
+
+    .landing .landing-content .text::after {
+        content: "";
+        position: absolute;
+        left: 50%;
+        bottom: -468px;
+        height: 100%;
+        transform: translateX(-50%);
+        border-style: solid;
+        border-color: #fff transparent transparent transparent;
+        border-width: 92px;
+        top: inherit;
+        right: inherit;
+    }
+    
+    .landing .landing-content {
+        position: relative;
+        min-height: 657px;
+    }
+}
