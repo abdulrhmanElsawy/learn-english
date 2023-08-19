@@ -128,4 +128,15 @@
         position: relative;
         min-height: 657px;
     }
+
+    .landing .landing-content img {
+        width: 100%;
+        position: absolute;
+        left: 0;
+        top: 65%;
+        right: 0;
+        bottom: 0;
+        height: 47%;
+        object-fit: cover;
+    }
 }
