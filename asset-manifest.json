@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/learn-english/static/css/main.3716c2da.css",
+    "main.js": "/learn-english/static/js/main.e326bb26.js",
+    "static/js/787.0490dd80.chunk.js": "/learn-english/static/js/787.0490dd80.chunk.js",
+    "static/media/tesol_horz_notag.png": "/learn-english/static/media/tesol_horz_notag.51a6bf0c3386b66b81f7.png",
+    "static/media/channel2.png": "/learn-english/static/media/channel2.1cac2d7343da32de660b.png",
+    "static/media/channel1.png": "/learn-english/static/media/channel1.60a9dfd9987b1cc1de47.png",
+    "static/media/channel5.png": "/learn-english/static/media/channel5.bc30926eae9d40ddb6b5.png",
+    "static/media/rosettastone.svg": "/learn-english/static/media/rosettastone.a3b8569d6d9f703bb5c582e1083048a4.svg",
+    "static/media/teachnology.png": "/learn-english/static/media/teachnology.88c6d044ce97dbdc0d85.png",
+    "static/media/channel4.png": "/learn-english/static/media/channel4.b32b9015f2d2b2d92b58.png",
+    "static/media/landing.webp": "/learn-english/static/media/landing.437dc88c0d407815cd22.webp",
+    "static/media/logo.png": "/learn-english/static/media/logo.a3ec4073706019ec1aaf.png",
+    "static/media/channel3.jpg": "/learn-english/static/media/channel3.1f7e005d72f180fc12c3.jpg",
+    "static/media/EnglishCLUB.png": "/learn-english/static/media/EnglishCLUB.552c76c2e93a262e4903.png",
+    "static/media/memrise.svg": "/learn-english/static/media/memrise.d71d37e87ba5f09f6d790435a03485f7.svg",
+    "static/media/duolingo.svg": "/learn-english/static/media/duolingo.f92d5f2f7d56636846861c458c0d0b6c.svg",
+    "static/media/britishcouncil.svg": "/learn-english/static/media/britishcouncil.7db0d442ddd7473972fb039d7fe5d813.svg",
+    "static/media/TOEFL.svg": "/learn-english/static/media/TOEFL.a690462d17d1737d4054e97dfaa0b37e.svg",
+    "static/media/eslgold.webp": "/learn-english/static/media/eslgold.f72e60256060c3ce3c0f.webp",
+    "static/media/edx-logo-elm.svg": "/learn-english/static/media/edx-logo-elm.bc9033bb1e2f4ccd811e47e562859cba.svg",
+    "static/media/coursera.svg": "/learn-english/static/media/coursera.e1c5f7400d99c2e980c82c8c7e1de890.svg",
+    "index.html": "/learn-english/index.html",
+    "static/media/youtube.svg": "/learn-english/static/media/youtube.d51475162e7c5e40f4daf744572f4aae.svg",
+    "main.3716c2da.css.map": "/learn-english/static/css/main.3716c2da.css.map",
+    "main.e326bb26.js.map": "/learn-english/static/js/main.e326bb26.js.map",
+    "787.0490dd80.chunk.js.map": "/learn-english/static/js/787.0490dd80.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3716c2da.css",
+    "static/js/main.e326bb26.js"
+  ]
+}
