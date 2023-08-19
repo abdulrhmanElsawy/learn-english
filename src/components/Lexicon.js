@@ -15,7 +15,7 @@ import { Link as RouterLink } from 'react-router-dom';
 function Lexicon(){
     return(
         <>
-            <section id="worksheets" className='our-services'>
+            <section id="dictionary" className='our-services'>
                 <div className='container-fluid'>
                     <div className='row'>
                         <div className='col-lg-12 col-md-12 col-sm-12 col-xs-12'>

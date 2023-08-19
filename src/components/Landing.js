@@ -30,7 +30,11 @@ function Landing(){
                                 Learning videos
                             </a>
 
-                            
+                            <a href="#dictionary">
+                                Dictionary
+                            </a>
+
+
                         </div>
                     </div>
                 </div>

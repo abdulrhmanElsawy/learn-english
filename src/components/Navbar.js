@@ -96,6 +96,13 @@ function Navbar(){
                                     </a>
                                 </li>
 
+                                    
+                                <li>
+                                    <a href="#dictionary">
+                                        Dictionary
+                                    </a>
+                                </li>
+
                             </ul>
 
                         </div>
