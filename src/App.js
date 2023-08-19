@@ -12,6 +12,8 @@ import Landing from './components/Landing';
 import Websites from './components/Websites';
 import Papers from './components/Papers';
 import Channels from './components/Channels';
+import Lexicon from './components/Lexicon';
+
 import Footer from './components/Footer';
 
 function App() {
@@ -28,6 +30,7 @@ return (
                         <Websites />
                         <Papers />
                         <Channels />
+                        <Lexicon />
                         <Footer />
 
 
