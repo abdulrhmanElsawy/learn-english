@@ -14,14 +14,14 @@ function Footer(){
                             <div className='footer-content'>
                                 <img loading="lazy" src={Logo}/>
                                 <p>
-                                With my deep interest in learning English and my passion for education, I created this site myself. I am Jumana Jaber Al Harami, a high school student in the State of Qatar. I believe English is vital to global communication and goal achievement. Through this website, I look forward to sharing my knowledge and experience with you and building an educational community that inspires everyone to grow
+                                With my deep interest in learning English and my passion for education, I created this site myself. I am Jomana Jaber Al Harami, a high school student in the State of Qatar. I believe English is vital to global communication and goal achievement. Through this website, I look forward to sharing my knowledge and experience with you and building an educational community that inspires everyone to grow
                                 </p>
                             </div>
                         </div>
 
                         <div className='col-lg-4 col-md-4 col-sm-6 col-xs-12'>
                             <div className='footer-content'>
-                                <h1> Usefull Links </h1>
+                                <h1> Useful Links </h1>
 
                                 <ul>
                                 <li>

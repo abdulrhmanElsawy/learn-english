@@ -19,7 +19,7 @@ function Landing(){
                     
                 <Swiper  grabCursor={true} spaceBetween={50} slidesPerView={1} 
                     autoplay={{
-                        delay: 2000,
+                        delay: 5000,
                         disableOnInteraction: false,
                     }}
                     modules={[Autoplay]}
