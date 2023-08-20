@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/learn-english/static/css/main.f5bbb87f.css",
-    "main.js": "/learn-english/static/js/main.a71c9660.js",
+    "main.js": "/learn-english/static/js/main.39714c3c.js",
     "static/js/787.0490dd80.chunk.js": "/learn-english/static/js/787.0490dd80.chunk.js",
     "static/media/tesol_horz_notag.png": "/learn-english/static/media/tesol_horz_notag.51a6bf0c3386b66b81f7.png",
     "static/media/landing2.webp": "/learn-english/static/media/landing2.8dd079995e217de1c500.webp",
@@ -26,11 +26,11 @@
     "index.html": "/learn-english/index.html",
     "static/media/youtube.svg": "/learn-english/static/media/youtube.d51475162e7c5e40f4daf744572f4aae.svg",
     "main.f5bbb87f.css.map": "/learn-english/static/css/main.f5bbb87f.css.map",
-    "main.a71c9660.js.map": "/learn-english/static/js/main.a71c9660.js.map",
+    "main.39714c3c.js.map": "/learn-english/static/js/main.39714c3c.js.map",
     "787.0490dd80.chunk.js.map": "/learn-english/static/js/787.0490dd80.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f5bbb87f.css",
-    "static/js/main.a71c9660.js"
+    "static/js/main.39714c3c.js"
   ]
 }
